@@ -21,7 +21,7 @@ body{
     font-family: 'Roboto', sans-serif;
     }
     h1{
-    color: #4d4646;
+    color: linear-gradient(to bottom right, #FDBD56, #FD56B6);
     font-weight: 300;
     letter-spacing: 10px;
     font-size: 32px;
@@ -60,15 +60,6 @@ body{
     margin: 20px 0px;
     text-align: center;
     }
-
-    .card-banniere {
-      background-color: white;
-      padding: 40px;
-      box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
-      border-radius: 6px;
-      margin: 20px 0px;
-      text-align: center;
-      }
 
     .img-circle {
     border-radius: 50%
@@ -121,7 +112,6 @@ body{
     color: black;
     }
     
-    /* Design adjustments using id (1% design remaining) */
     #introduction p {
     margin-bottom: 40px;
     }
