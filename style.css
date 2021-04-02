@@ -8,8 +8,7 @@ body{
     img{
         max-width: 100%;
         max-height: 100%;
-        display: block;
-        
+        display: block; 
       }
 
 
@@ -74,26 +73,7 @@ body{
     background-color: black;
     color: white;
     }
-    .btndance-blue:hover {
-    background-color: gold;
-    color: white;
-    }
-    .btndance-blue {
-    background: #575f7d70;
-    color: white;
-    padding: 15px 20px;
-    border-radius: 4px;
-    }
-    .btngastronomy-blue {
-    background: #575f7d70;
-    color: white;
-    padding: 15px 20px;
-    border-radius: 4px;
-    }
-    .btngastronomy-blue:hover {
-    background-color: gold;
-    color: white;
-    }
+
     .list-inline {
     list-style: none;
     padding-left: 0px;
@@ -111,7 +91,6 @@ body{
     color: black;
     }
     
-    /* Design adjustments using id (1% design remaining) */
     #introduction p {
     margin-bottom: 40px;
     }
