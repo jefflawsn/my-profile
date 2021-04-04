@@ -63,13 +63,13 @@ body{
     .img-circle {
     border-radius: 50%
     }
-    .btn-blue {
+    .btn-gradient {
     background: linear-gradient(to bottom right, #FDBD56, #FD56B6);
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
     }
-    .btn-blue:hover {
+    .btn-gradient:hover {
     background-color: black;
     color: white;
     }
@@ -94,10 +94,4 @@ body{
     #introduction p {
     margin-bottom: 40px;
     }
-    #gastronomybtn p{
-    margin: 20px
-    }
-    
-    #dancingbtn p{
-    margin: 20px
-    }
+ 
